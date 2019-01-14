@@ -4,7 +4,7 @@ import os
 import glob
 
 # diretorio steam apps alterar conforme o necessário
-steamAppsDir = "/home/rodrigo/.steam/steam/steamapps/"
+steamAppsDir = os.getenv("HOME")+"/.steam/steam/steamapps/"
 os.chdir(steamAppsDir)
 gamefiles = []
 

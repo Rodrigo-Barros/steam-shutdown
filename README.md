@@ -24,8 +24,9 @@ se há algum download na fila, se houver na sua linha de comando você verá uma
 nome do jogo e a porcentagem em que ele se encontra e quando o download for finalizado o script encerra o computador,
 se não houver nenhum jogo para baixar é exibida uma mensagem e o script é encerrado
 
-![alt text](screenshot.png "Script em funcionamento")
+![screenshot script em funcionamento](screenshots/screenshot.png "Script em funcionamento")
 
+![screnshot script detectando que não há dowloads em andamento](screenshots/screenshot1.png "Detectando Que não há downloads em andamento")
 
 OBS: esse script foi criado tendo em mente que você possui acesso a conta de administrador do sistema, se você
 não possui acesso a essa conta o script não funcionará conforme planejado, pois só a conta root tem acesso para
